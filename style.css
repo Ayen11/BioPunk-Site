@@ -281,10 +281,14 @@ nav ul li a:hover::after{
     font-size: 20px;
     margin-bottom: 400px;
     margin-top: 300px;
+    justify-content: center;
+    text-align: center;
 }
 
 .contact-left p{
     margin-top: 30px;
+    align-items: center;
+
 }
 
 .contact-left p i{
@@ -297,6 +301,13 @@ nav ul li a:hover::after{
     display: inline-block;
     background: #007afc;
     height: 50px;
+}
+
+.social-btn{
+    font-size: 50px;
+    margin: 30px;
+    align-items: center;
+
 }
 
 /*-------------------css for small screens-------------------*/
