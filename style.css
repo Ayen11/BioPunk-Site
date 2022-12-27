@@ -76,7 +76,7 @@ nav ul li a::after{ /* underline header pc mode*/
     content: "";
     width: 0; /*start underline un-hovered*/
     height: 3px;
-    background: #03d65b; /*underline color, change later? */
+    background: #a9f087; /*underline color, change later? */
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -362,7 +362,7 @@ nav .icon{
     
 
     nav ul{ /*side menu mobile mode*/
-        background: #03d65b; /*color to change later?*/
+        background: #82b869; /*color to change later?*/
         position: fixed;
         top: 0;
         right: -200px;
